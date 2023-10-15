@@ -7660,7 +7660,7 @@ CABLES.exportedPatches["kgLqgI"] = {
             value: ""
         }, {
             name: "glb File",
-            value: "assets/to_rhino.glb",
+            value: "to_rhino.glb",
             display: "file"
         }, {
             name: "Draw",
@@ -7775,7 +7775,7 @@ CABLES.exportedPatches["kgLqgI"] = {
             value: ""
         }, {
             name: "glb File",
-            value: "assets/to_rhino.glb",
+            value: "to_rhino.glb",
             display: "file"
         }, {
             name: "Draw",
@@ -7890,7 +7890,7 @@ CABLES.exportedPatches["kgLqgI"] = {
             value: ""
         }, {
             name: "glb File",
-            value: "assets/to_rhino.glb",
+            value: "to_rhino.glb",
             display: "file"
         }, {
             name: "Draw",
@@ -8004,7 +8004,7 @@ CABLES.exportedPatches["kgLqgI"] = {
             value: ""
         }, {
             name: "glb File",
-            value: "assets/to_rhino2.glb",
+            value: "to_rhino2.glb",
             display: "file"
         }, {
             name: "Draw",
